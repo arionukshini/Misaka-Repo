@@ -60,10 +60,138 @@
             {
                "Version":"1.0",
                "Package":"https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/Gradient%20Passcode%20%26%20Phone.misaka",
-               "Description":"initial release"
+               "Description":"Initial release"
             }
          ],
          "PackageID":"com.diino.sonicdashcheat"
+      },
+      {
+         "Name":"Jetpack Joyride Cheat",
+         "Description":"Hack Jetpack Joyride!",
+         "Author":{
+            "Label":"Diino",
+            "Links":[
+               {
+                  "Label":"Diino",
+                  "Link":"https://twitter.com/RealEPOS"
+               }
+            ]
+         },
+         "Icon":"https://raw.githubusercontent.com/ItsDiino/Misaka-Repo/main/Images/jetpack_joyride_icon.jpg",
+         "Category":"Cheat",
+         "Caption":" 1.5 billion Gold, all Power-Ups maxed, all Gadgets unlocked, all Vehicle skins unlocked, all Costumes unlocked, all Jetpacks unlocked, Double Coins unlocked, Extra Gadget Slot unlocked, Wave Rider unlocked, Sleigh Of Awesome unlocked",
+         "Screenshot":[
+            "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/gradient_ss.jpg",
+            "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/gradient_ss2.jpg"
+         ],
+         "Releases":[
+            {
+               "Version":"1.0",
+               "Package":"https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/Gradient%20Passcode%20%26%20Phone.misaka",
+               "Description":"Initial release"
+            }
+         ],
+         "PackageID":"com.diino.jetpackjoyridecheat"
+      },
+      {
+         "Name":"MadOut2 Cheat",
+         "Description":"Hack MadOut2!",
+         "Author":{
+            "Label":"Diino",
+            "Links":[
+               {
+                  "Label":"Diino",
+                  "Link":"https://twitter.com/RealEPOS"
+               }
+            ]
+         },
+         "Icon":"https://raw.githubusercontent.com/ItsDiino/Misaka-Repo/main/Images/madout2_icon.jpg",
+         "Category":"Cheat",
+         "Caption":"1 000 000 000 Coins, 1 000 000 Diamonds, No Ads",
+         "Screenshot":[
+            "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/gradient_ss.jpg",
+            "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/gradient_ss2.jpg"
+         ],
+         "Releases":[
+            {
+               "Version":"1.0",
+               "Package":"https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/Gradient%20Passcode%20%26%20Phone.misaka",
+               "Description":"Initial release"
+            }
+         ],
+         "PackageID":"com.diino.madout2cheat"
+      },
+      {
+         "Name":"Real Racing 3 Cheat",
+         "Description":"Hack Real Racing 3!",
+         "Author":{
+            "Label":"Diino",
+            "Links":[
+               {
+                  "Label":"Diino",
+                  "Link":"https://twitter.com/RealEPOS"
+               }
+            ]
+         },
+         "Icon":"https://raw.githubusercontent.com/ItsDiino/Misaka-Repo/main/Images/realracing_icon.png",
+         "Category":"Cheat",
+         "Caption":"Hack the game, I forgot what it does lol",
+         "Releases":[
+            {
+               "Version":"1.0",
+               "Package":"https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/Gradient%20Passcode%20%26%20Phone.misaka",
+               "Description":"Initial release"
+            }
+         ],
+         "PackageID":"com.diino.realracing3cheat"
+      },
+      {
+         "Name":"Traffic Rider Cheat",
+         "Description":"Hack Traffic Rider!",
+         "Author":{
+            "Label":"Diino",
+            "Links":[
+               {
+                  "Label":"Diino",
+                  "Link":"https://twitter.com/RealEPOS"
+               }
+            ]
+         },
+         "Icon":"https://raw.githubusercontent.com/ItsDiino/Misaka-Repo/main/Images/trafficrider_icon.png",
+         "Category":"Cheat",
+         "Caption":"15,000,000 Cash, 20,000 Gold, 5 keys, Extra Life, No ADs, Double Cash, All inapp purchased bikes unlocked, Game Mode's One Way and Two Way Unlocked",
+         "Releases":[
+            {
+               "Version":"1.0",
+               "Package":"https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/Gradient%20Passcode%20%26%20Phone.misaka",
+               "Description":"Initial release"
+            }
+         ],
+         "PackageID":"com.diino.trafficridercheat"
+      },
+      {
+         "Name":"2 3 4 Player Mini Games Cheat",
+         "Description":"Hack 234 Player Mini Games!",
+         "Author":{
+            "Label":"Diino",
+            "Links":[
+               {
+                  "Label":"Diino",
+                  "Link":"https://twitter.com/RealEPOS"
+               }
+            ]
+         },
+         "Icon":"https://raw.githubusercontent.com/ItsDiino/Misaka-Repo/main/Images/234player_icon.png",
+         "Category":"Cheat",
+         "Caption":"A ton of coins and gems!",
+         "Releases":[
+            {
+               "Version":"1.0",
+               "Package":"https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/Gradient%20Passcode%20%26%20Phone.misaka",
+               "Description":"Initial release"
+            }
+         ],
+         "PackageID":"com.diino.234playercheat"
       }
    ]
 }
