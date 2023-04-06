@@ -18,7 +18,7 @@
                }
             ]
          },
-         "Icon":"https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/font_ico.png",
+         "Icon":"https://raw.githubusercontent.com/ItsDiino/Misaka-Repo/main/Images/subwaysurf_icon.png",
          "Category":"Cheat",
          "Caption":"Unlocks most of the characters and hoverboards and gives you a lot of coins, keys and other stuff.",
          "Screenshot":[
@@ -49,7 +49,7 @@
                }
             ]
          },
-         "Icon":"https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/gradient_ico.jpg",
+         "Icon":"https://raw.githubusercontent.com/ItsDiino/Misaka-Repo/main/Images/sonicdash_icon.png",
          "Category":"Cheat",
          "Caption":"Get a lot of coins and also unlock all characters!",
          "Screenshot":[
@@ -61,11 +61,6 @@
                "Version":"1.0",
                "Package":"https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/Gradient%20Passcode%20%26%20Phone.misaka",
                "Description":"initial release"
-            },
-            {
-               "Version":"1.1",
-               "Package":"https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/Gradient%20Passcode%20%26%20Phone1.1.misaka",
-               "Description":"Fixed phone keys light mode variant not theming"
             }
          ],
          "PackageID":"com.diino.sonicdashcheat"
