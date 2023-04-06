@@ -1,0 +1,75 @@
+{
+    "RepositoryName": "Diino's Cheats",
+    "RepositoryDescription": "The best Misaka Repo for game cheats!",
+    "RepositoryAuthor": "Diino",
+    "RepositoryIcon": "https://raw.githubusercontent.com/ItsDiino/Misaka-Repo/main/Images/icon.jpg",
+    "RepositoryWebsite": "https://github.com/ItsDiino/Misaka-Repo",
+    "DefaultHeaderImage": "https://raw.githubusercontent.com/ItsDiino/Misaka-Repo/main/Images/header.jpg",
+    "RepositoryContents": [
+        {
+            "Name": "Subway Surf Mega Cheat",
+            "Description": "Hack Subway Surfers!",
+            "Author": {
+                "Label": "Diino",
+                "Links": [
+                    {
+                        "Label": "Diino",
+                        "Link": "https://github.com/ItsDiino"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/font_ico.png",
+            "Category": "Cheat",
+            "Caption": "Unlocks most of the characters and hoverboards and gives you a lot of coins, keys and other stuff.",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/bronkoh_ss.png"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "",
+                  "Description": "Initial release"
+              }
+            ],
+            "PackageID": "com.diino.subwaysurfcheat"
+        },
+        {
+            "Name": "Sonic Dash Cheat",
+            "Description": "Hack Sonic Dash!",
+            "Author": {
+                "Label": "Dino & Diino",
+                "Links": [
+                    {
+                        "Label": "Dino (Dev)",
+                        "Link": "https://twitter.com/RealEPOS"
+                    },
+                    {
+                        "Label": "Diino (Designer)",
+                        "Link": "https://twitter.com/Z3ROS1X"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/gradient_ico.jpg",
+            "Category": "Cheat",
+            "Caption": "Get a lot of coins and also unlock all characters!",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/gradient_ss.jpg", "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/gradient_ss2.jpg"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/Gradient%20Passcode%20%26%20Phone.misaka",
+                  "Description": "initial release"
+              },
+              {
+                  "Version": "1.1",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/Gradient%20Passcode%20%26%20Phone1.1.misaka",
+                  "Description": "Fixed phone keys light mode variant not theming"
+              }
+            ],
+            "PackageID": "com.diino.sonicdashcheat"
+        }
+		
+		
+    ]
+}
