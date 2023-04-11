@@ -127,11 +127,11 @@
       },
       "Icon": "https://raw.githubusercontent.com/ItsDiino/Misaka-Repo/main/Images/realracing_icon.png",
       "Category": "Cheat",
-      "Caption": "Hack the game, I forgot what it does lol",
+      "Caption": "A lot of currency and unlocks most of the cars!",
       "Releases": [
         {
           "Version": "1.0",
-          "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/Gradient%20Passcode%20%26%20Phone.misaka",
+          "Package": "https://raw.githubusercontent.com/ItsDiino/Misaka-Repo/main/Cheats/Real%20Racing%203%20Cheat.misaka",
           "Description": "Initial release"
         }
       ],
