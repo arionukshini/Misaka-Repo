@@ -10,19 +10,11 @@
       "Name": "Subway Surf Mega Cheat",
       "Description": "Hack Subway Surfers!",
       "Author": {
-        "Label": "Diino",
+        "Label": "HackZy",
         "Links": [
           {
             "Label": "Github",
-            "Link": "https://github.com/ItsDiino"
-          },
-          {
-            "Label": "Website",
-            "Link": "https://itsdiino.github.io/"
-          },
-          {
-            "Label": "Twitter",
-            "Link": "https://twitter.com/diinodagoat"
+            "Link": "https://GitHub.com/hackzy01"
           }
         ]
       },
@@ -35,11 +27,11 @@
       "Releases": [
         {
           "Version": "1.0",
-          "Package": "",
-          "Description": "Initial release"
+          "Package": "https://raw.githubusercontent.com/hackzy01/misio/main/tweaks/com.hackzy.subhack.misaka",
+          "Description": "It just works"
         }
       ],
-      "PackageID": "com.diino.subwaysurfcheat"
+      "PackageID": "com.hackzy.subhack"
     },
     {
       "Name": "Sonic Dash Cheat",
