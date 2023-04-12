@@ -5,6 +5,10 @@
   "RepositoryIcon": "https://raw.githubusercontent.com/ItsDiino/Misaka-Repo/main/Images/icon.jpg",
   "RepositoryWebsite": "https://github.com/ItsDiino/Misaka-Repo",
   "DefaultHeaderImage": "https://raw.githubusercontent.com/ItsDiino/Misaka-Repo/main/Images/header.jpg",
+  "Default": {
+    "HeaderImage": "https://raw.githubusercontent.com/ItsDiino/Misaka-Repo/main/Images/header.jpg",
+    "ViewCount": true
+  },
   "RepositoryContents": [
     {
       "Name": "Subway Surf Mega Cheat",
@@ -55,7 +59,7 @@
       },
       "Icon": "https://raw.githubusercontent.com/ItsDiino/Misaka-Repo/main/Images/sonicdash_icon.png",
       "Category": "Cheat",
-      "Caption": "Get a lot of coins and also unlock all characters!",
+      "Caption": "(Coming soon) Get a lot of coins and also unlock all characters!",
       "Screenshot": [
         "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/gradient_ss.jpg",
         "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/gradient_ss2.jpg"
@@ -63,8 +67,8 @@
       "Releases": [
         {
           "Version": "1.0",
-          "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/Gradient%20Passcode%20%26%20Phone.misaka",
-          "Description": "Initial release"
+          "Package": "",
+          "Description": "Coming soon"
         }
       ],
       "PackageID": "com.diino.sonicdashcheat"
@@ -91,7 +95,7 @@
       },
       "Icon": "https://raw.githubusercontent.com/ItsDiino/Misaka-Repo/main/Images/jetpack_joyride_icon.jpg",
       "Category": "Cheat",
-      "Caption": " 1.5 billion Gold, all Power-Ups maxed, all Gadgets unlocked, all Vehicle skins unlocked, all Costumes unlocked, all Jetpacks unlocked, Double Coins unlocked, Extra Gadget Slot unlocked, Wave Rider unlocked, Sleigh Of Awesome unlocked",
+      "Caption": "(Coming soon) 1.5 billion Gold, all Power-Ups maxed, all Gadgets unlocked, all Vehicle skins unlocked, all Costumes unlocked, all Jetpacks unlocked, Double Coins unlocked, Extra Gadget Slot unlocked, Wave Rider unlocked, Sleigh Of Awesome unlocked",
       "Screenshot": [
         "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/gradient_ss.jpg",
         "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/gradient_ss2.jpg"
@@ -99,8 +103,8 @@
       "Releases": [
         {
           "Version": "1.0",
-          "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/Gradient%20Passcode%20%26%20Phone.misaka",
-          "Description": "Initial release"
+          "Package": "",
+          "Description": "Coming soon"
         }
       ],
       "PackageID": "com.diino.jetpackjoyridecheat"
@@ -159,12 +163,12 @@
       },
       "Icon": "https://raw.githubusercontent.com/ItsDiino/Misaka-Repo/main/Images/trafficrider_icon.png",
       "Category": "Cheat",
-      "Caption": "15,000,000 Cash, 20,000 Gold, 5 keys, Extra Life, No ADs, Double Cash, All inapp purchased bikes unlocked, Game Mode's One Way and Two Way Unlocked",
+      "Caption": "(Coming soon) 15,000,000 Cash, 20,000 Gold, 5 keys, Extra Life, No ADs, Double Cash, All inapp purchased bikes unlocked, Game Mode's One Way and Two Way Unlocked",
       "Releases": [
         {
           "Version": "1.0",
-          "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/Gradient%20Passcode%20%26%20Phone.misaka",
-          "Description": "Initial release"
+          "Package": "",
+          "Description": "Coming Soon"
         }
       ],
       "PackageID": "com.diino.trafficridercheat"
