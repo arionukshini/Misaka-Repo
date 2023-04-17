@@ -25,9 +25,6 @@
       "Icon": "https://raw.githubusercontent.com/ItsDiino/Misaka-Repo/main/Images/subwaysurf_icon.png",
       "Category": "Cheat",
       "Caption": "Unlocks most of the characters and hoverboards and gives you a lot of coins, keys and other stuff.",
-      "Screenshot": [
-        "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/bronkoh_ss.png"
-      ],
       "Releases": [
         {
           "Version": "1.0",
@@ -59,23 +56,22 @@
       },
       "Icon": "https://raw.githubusercontent.com/ItsDiino/Misaka-Repo/main/Images/sonicdash_icon.png",
       "Category": "Cheat",
-      "Caption": "(Coming soon) Get a lot of coins and also unlock all characters!",
+      "Caption": "Get a lot of coins and also unlock all characters!",
       "Screenshot": [
-        "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/gradient_ss.jpg",
-        "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/gradient_ss2.jpg"
+        "https://raw.githubusercontent.com/ItsDiino/Misaka-Repo/main/Images/sonicdashvid.mp4"
       ],
       "Releases": [
         {
           "Version": "1.0",
-          "Package": "",
-          "Description": "Coming soon"
+          "Package": "https://raw.githubusercontent.com/ItsDiino/Misaka-Repo/main/Cheats/Sonic%20Dash%20Cheat.misaka",
+          "Description": "Initial release"
         }
       ],
       "PackageID": "com.diino.sonicdashcheat"
     },
     {
-      "Name": "Jetpack Joyride Cheat",
-      "Description": "Hack Jetpack Joyride!",
+      "Name": "Hill Climb Racing Cheat",
+      "Description": "Hack Hill Climb Racing!",
       "Author": {
         "Label": "Diino",
         "Links": [
@@ -93,21 +89,20 @@
           }
         ]
       },
-      "Icon": "https://raw.githubusercontent.com/ItsDiino/Misaka-Repo/main/Images/jetpack_joyride_icon.jpg",
+      "Icon": "https://raw.githubusercontent.com/ItsDiino/Misaka-Repo/main/Images/hillclimb_icon.png",
       "Category": "Cheat",
-      "Caption": "(Coming soon) 1.5 billion Gold, all Power-Ups maxed, all Gadgets unlocked, all Vehicle skins unlocked, all Costumes unlocked, all Jetpacks unlocked, Double Coins unlocked, Extra Gadget Slot unlocked, Wave Rider unlocked, Sleigh Of Awesome unlocked",
+      "Caption": "Gives you a ton of coins! If you ever somehow run out just reapply the hack.",
       "Screenshot": [
-        "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/gradient_ss.jpg",
-        "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/gradient_ss2.jpg"
+        "https://raw.githubusercontent.com/ItsDiino/Misaka-Repo/main/Images/hillclimb.png"
       ],
       "Releases": [
         {
           "Version": "1.0",
-          "Package": "",
-          "Description": "Coming soon"
+          "Package": "https://raw.githubusercontent.com/ItsDiino/Misaka-Repo/main/Cheats/Hill%20Climb%20Cheat.misaka",
+          "Description": "Initial release"
         }
       ],
-      "PackageID": "com.diino.jetpackjoyridecheat"
+      "PackageID": "com.diino.hillclimbcheat"
     },
     {
       "Name": "Real Racing 3 Cheat",
@@ -132,6 +127,9 @@
       "Icon": "https://raw.githubusercontent.com/ItsDiino/Misaka-Repo/main/Images/realracing_icon.png",
       "Category": "Cheat",
       "Caption": "A lot of currency and unlocks most of the cars!",
+      "Screenshot": [
+        "https://raw.githubusercontent.com/ItsDiino/Misaka-Repo/main/Images/realracing3.png"
+      ],
       "Releases": [
         {
           "Version": "1.0",
@@ -140,38 +138,6 @@
         }
       ],
       "PackageID": "com.diino.realracing3cheat"
-    },
-    {
-      "Name": "Traffic Rider Cheat",
-      "Description": "Hack Traffic Rider!",
-      "Author": {
-        "Label": "Diino",
-        "Links": [
-          {
-            "Label": "Github",
-            "Link": "https://github.com/ItsDiino"
-          },
-          {
-            "Label": "Website",
-            "Link": "https://itsdiino.github.io/"
-          },
-          {
-            "Label": "Twitter",
-            "Link": "https://twitter.com/diinodagoat"
-          }
-        ]
-      },
-      "Icon": "https://raw.githubusercontent.com/ItsDiino/Misaka-Repo/main/Images/trafficrider_icon.png",
-      "Category": "Cheat",
-      "Caption": "(Coming soon) 15,000,000 Cash, 20,000 Gold, 5 keys, Extra Life, No ADs, Double Cash, All inapp purchased bikes unlocked, Game Mode's One Way and Two Way Unlocked",
-      "Releases": [
-        {
-          "Version": "1.0",
-          "Package": "",
-          "Description": "Coming Soon"
-        }
-      ],
-      "PackageID": "com.diino.trafficridercheat"
     },
     {
       "Name": "2 3 4 Player Mini Games Cheat",
