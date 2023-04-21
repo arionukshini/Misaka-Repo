@@ -290,6 +290,8 @@
       "Icon": "https://em-content.zobj.net/thumbs/160/apple/114/face-with-one-eyebrow-raised_1f928.png",
       "Category": "Other",
       "Caption": "Changes the no older notifications text to 'No Bitches Lol' so you can get reminded that your phone is dry in a funny way.",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "15.7",
       "Screenshot": [
         "https://raw.githubusercontent.com/ItsDiino/Misaka-Repo/main/Images/nobitches.png"
       ],
