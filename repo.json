@@ -1,6 +1,6 @@
 {
-  "RepositoryName": "Diino's Cheats",
-  "RepositoryDescription": "The best Misaka Repo for game cheats!",
+  "RepositoryName": "Diino's Tweaks",
+  "RepositoryDescription": "Just some random tweaks and cheats for misaka!",
   "RepositoryAuthor": "Diino",
   "RepositoryIcon": "https://raw.githubusercontent.com/ItsDiino/Misaka-Repo/main/Images/icon.jpg",
   "RepositoryWebsite": "https://github.com/ItsDiino/Misaka-Repo",
@@ -170,6 +170,137 @@
         }
       ],
       "PackageID": "com.diino.234playercheat"
+    },
+    {
+      "Name": "Plantera Cheat",
+      "Description": "Hack Plantera!",
+      "Author": {
+        "Label": "Diino",
+        "Links": [
+          {
+            "Label": "Github",
+            "Link": "https://github.com/ItsDiino"
+          },
+          {
+            "Label": "Website",
+            "Link": "https://itsdiino.github.io/"
+          },
+          {
+            "Label": "Twitter",
+            "Link": "https://twitter.com/diinodagoat"
+          }
+        ]
+      },
+      "Icon": "https://raw.githubusercontent.com/ItsDiino/Misaka-Repo/main/Images/plantera.png",
+      "Category": "Cheat",
+      "Caption": "A ton of coins and level 4200",
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://raw.githubusercontent.com/ItsDiino/Misaka-Repo/main/Cheats/Plantera%20Cheat.misaka",
+          "Description": "Initial release"
+        }
+      ],
+      "PackageID": "com.diino.planteracheat"
+    },
+    {
+      "Name": "Cooking Fever Cheat",
+      "Description": "Hack Cooking Fever!",
+      "Author": {
+        "Label": "Diino",
+        "Links": [
+          {
+            "Label": "Github",
+            "Link": "https://github.com/ItsDiino"
+          },
+          {
+            "Label": "Website",
+            "Link": "https://itsdiino.github.io/"
+          },
+          {
+            "Label": "Twitter",
+            "Link": "https://twitter.com/diinodagoat"
+          }
+        ]
+      },
+      "Icon": "https://raw.githubusercontent.com/ItsDiino/Misaka-Repo/main/Images/cookingfever.png",
+      "Category": "Cheat",
+      "Caption": "Unlimited coins",
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://raw.githubusercontent.com/ItsDiino/Misaka-Repo/main/Cheats/Cooking%20Fever%20Cheat.misaka",
+          "Description": "Initial release"
+        }
+      ],
+      "PackageID": "com.diino.cookingfevercheat"
+    },
+    {
+      "Name": "No 'Press home to unlock'",
+      "Description": "Remove that text",
+      "Author": {
+        "Label": "Diino",
+        "Links": [
+          {
+            "Label": "Github",
+            "Link": "https://github.com/ItsDiino"
+          },
+          {
+            "Label": "Website",
+            "Link": "https://itsdiino.github.io/"
+          },
+          {
+            "Label": "Twitter",
+            "Link": "https://twitter.com/diinodagoat"
+          }
+        ]
+      },
+      "Icon": "https://raw.githubusercontent.com/ItsDiino/Misaka-Repo/main/Images/no%20press%20home.png",
+      "Category": "Other",
+      "Caption": "Here is a tweak for all my fellow home button users. It removes the annoying press home to unlock text.",
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://raw.githubusercontent.com/ItsDiino/Misaka-Repo/main/Cheats/No%20Press%20home%20to%20unlock.misaka",
+          "Description": "Initial release"
+        }
+      ],
+      "PackageID": "com.diino.nopresshomeunlock"
+    },
+    {
+      "Name": "Plantera Cheat",
+      "Description": "Hack Plantera!",
+      "Author": {
+        "Label": "Diino",
+        "Links": [
+          {
+            "Label": "Github",
+            "Link": "https://github.com/ItsDiino"
+          },
+          {
+            "Label": "Website",
+            "Link": "https://itsdiino.github.io/"
+          },
+          {
+            "Label": "Twitter",
+            "Link": "https://twitter.com/diinodagoat"
+          }
+        ]
+      },
+      "Icon": "https://raw.githubusercontent.com/ItsDiino/Misaka-Repo/main/Images/nolol.png",
+      "Category": "Other",
+      "Caption": "Changes the no older notifications text to 'No Bitches Lol' so you can get reminded that your phone is dry in a funny way.",
+      "Screenshot": [
+        "https://raw.githubusercontent.com/ItsDiino/Misaka-Repo/main/Images/nobitches.png"
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://raw.githubusercontent.com/ItsDiino/Misaka-Repo/main/Cheats/No%20Bitches%20Lol.misaka",
+          "Description": "Initial release"
+        }
+      ],
+      "PackageID": "com.diino.nobitcheslol"
     }
   ]
 }
